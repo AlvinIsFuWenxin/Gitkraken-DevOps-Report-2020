@@ -4,7 +4,7 @@
 
 <p align="right"><b>By GitKraken</b></p>
 
-<p align="right"><b>Translator: 付文新 吴平福 周一行</b></p>
+<p align="right"><b>Translator: 周一行 吴平福 付文新</b></p>
 
 ![](.\images\tools_chain.png)
 
