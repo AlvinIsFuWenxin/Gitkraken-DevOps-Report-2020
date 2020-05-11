@@ -6,7 +6,7 @@ GUIs提供了一个至关重要的清晰的视觉展现层，消除了CLI的黑�
 没有Git GUI，企业很难在所有开发团队中标准化和扩展Git的使用。GitKraken Git GUI的持续增长说明了为什么GUI方法对于用Git实现成功的DevOps工作流是不可或缺的。
 
 ###### 工具
- GitKraken Git GUI-连续四年被评为“开发者工具”的第一名，GitKraken Git GUI是由Axosoft构建的GitKraken工具套件中的旗舰产品。它允许开发人员在彩色图形中可视化Git存储库的历史，并将复杂的Git命令简化为拖放操作。通过内置的合并冲突编辑器、交互式rebase模式、内置的代码编辑器、集成工具等，GitKraken Git GUI为有经验的开发人员简化了的Git工作流，并减少了刚接触Git的人员的陡峭的学习曲线。
+![](.\images\2-3-1.png) GitKraken Git GUI-连续四年被评为“开发者工具”的第一名，GitKraken Git GUI是由Axosoft构建的GitKraken工具套件中的旗舰产品。它允许开发人员在彩色图形中可视化Git存储库的历史，并将复杂的Git命令简化为拖放操作。通过内置的合并冲突编辑器、交互式rebase模式、内置的代码编辑器、集成工具等，GitKraken Git GUI为有经验的开发人员简化了的Git工作流，并减少了刚接触Git的人员的陡峭的学习曲线。
 GitKraken在其他客户端中脱颖而出，因为它是兼容Linux、Mac和Windows的为数不多的GUI之一，而GitHub Desktop和Sourcetree不支持Linux。它在DevOps工作流中扮演着关键的角色，它紧密地连接了各种代码工具：Git客户端、托管服务和IDE（它使用了VS Code内置的Monaco代码编辑器）。
 GitKraken Git GUI集成了上一节中列出的所有顶级的Git托管服务：GitHub、GitLab、Bitbucket和Azure DevOps，以及它们的自托管服务（不包括TFS），可以从GitKraken内部实现以下所有功能：在托管帐户上创建存储库，包括.gitignore文件和license文件；自动生成一个SSH密钥对，并将其添加完成；fork存储库；将身份验证保存到配置文件中；从您的repo列表中克隆；为repo添加远程地址；使用添加的分配者、审阅者和标签创建pull requests；查看pull requests的构建状态。
 GitKraken Git GUI还通过连接计划和代码步骤，支持无缝的DevOps工作流。GitKraken Git GUI内置了Glo Issue Boards和GitKraken Timelines等规划工具。为了便于跟踪，Git GUI中的存储库可以与Glo Boards相关联。当创建一个新的GitHub pull request时，只需链接一个Glo card；这将自动更新GitHub中的pull request描述，以包含到该卡的链接。另外，GitKraken Git GUI与Glo Issue Boards、Jira、GitHub Issues和GitLab Issues的更紧密、更强大的集成版本即将推出！
