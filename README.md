@@ -1,21 +1,13 @@
 ![](.\images\gitkraken_icon.png)
 
 <div align='center' ><font size='70'>DevOps Tools Report 2020</font></div>
-
 <p align="right"><b>By GitKraken</b></p>
-
-<p align="right"><b>Translator: 周一行 吴平福 付文新</b></p>
-
+<p align="right"><b>Translator: 吴平福 周一行 付文新</b></p>
 ![](.\images\tools_chain.png)
 
 ![](.\images\page_front.png)
 
 <div align='center' ><font size='35'>目录</font></div>
-
-[TOC]
-
-![](.\images\page_front.png)
-
 ### 摘要
 
 ### 调研结论
@@ -40,7 +32,7 @@
 
 ###### 工具
 
-##### 源码管理客户端
+##### [源码管理客户端](./Part2.md)
 
 ###### 关键发现
 
@@ -62,7 +54,7 @@
 
 ###### 工具
 
-#### 发布
+#### [发布]()
 
 ##### 配置管理
 
