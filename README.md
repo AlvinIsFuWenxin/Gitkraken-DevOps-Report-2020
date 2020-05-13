@@ -1,6 +1,4 @@
-
-<div align='center'>![0-1](images/gitkraken_icon.png)</div>
-
+<img src=images/gitkraken_icon.png div align=center />
 <div align='center'><font size='70'>DevOps Tools Report 2020</font></div>
 <p align="right"><b>By GitKraken</b></p>
 <p align="right"><b>Translator: 吴平福 周一行 付文新</b></p>
