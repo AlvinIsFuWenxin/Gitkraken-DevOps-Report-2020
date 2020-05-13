@@ -1,5 +1,6 @@
 
 <div align='center'>![0-1](images/gitkraken_icon.png)</div>
+
 <div align='center'><font size='70'>DevOps Tools Report 2020</font></div>
 <p align="right"><b>By GitKraken</b></p>
 <p align="right"><b>Translator: 吴平福 周一行 付文新</b></p>
@@ -8,6 +9,7 @@
 
 ![0-3](images/page_front.png)
 <div align='center' ><font size='35'>目录</font></div>
+
 ### 摘要
 
 ### 调研结论
