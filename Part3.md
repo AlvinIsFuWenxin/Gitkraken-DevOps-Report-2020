@@ -97,12 +97,70 @@ Docker不仅仅在这篇DevOps报告中位列容器工具排行榜第一，而�
 
 ###### <img src="images/7-1-2.png" style="zoom:50%;" />
 
+Kubernetes是一个开源的容器编排工具，旨在自动化应用部署，扩展和管理。Kubernetes起初是Google的一个项目，现在由CNCF(云原生计算基金会)维护。
+
+Docker 和Kubernetes并不直接竞争，Kubernetes是服务于类似Docker这样的容器平台的容器编排器。主流的云供应商都支持此功能。如果企业打算上云，Kubernetes是个非常可靠的选择。它提供了一个主流的框架来运行分布式系统。每个项目的开发到生产环境，研发小组都能够运行在一致的基础设施之上。Kubernetes可以管理扩展需求，可用性，故障迁移，部署模式等等。
+
+尽管Kubernetes是个健壮的工具，但它的复杂性以及在DevOps工具链中新增的非必需功能也臭名昭著。许多像AWS和Azure的云服务提供商提供的云编排能力就能够满足企业的需要。
+
 ###### <img src="images/6-1-3.png" style="zoom:50%;" />
 
-#### 监控
+AWS名如其意，是AWS的提供的服务，旨在按需提供云计算平台和对应的API。如果你使用其他的AWS开发者工具来掌管代码、构建、测试和部署服务到AWS，那就应该考虑扩展DevOps工具链，并在AWS上运行容器。
+
+如果贵公司选择了AWS，那么就会涉及一到两个容器编排工具：Amazon的ECS或者EKS。如果对AWS的架构和API熟悉，那么使用ECS来运行容器是更好的选择。因为ECS于AWS的其他服务深度集成，如：IAM、VPC和Amazon Route 53。如果使用Kubernetes，那么EKS是个安全、可靠、可扩展的运行Kubernetes的方式。
+
+#### ![](images/8-0.png)监控
 
 ##### 分析/监控
 
+###### <img src="images/8-1-1.png" style="zoom:50%;" />
+
+Google Analytics是一款强大的分析和监控工具，帮助企业团体收集、配置和分析关键数据。该工具提出的洞见可基于用户和网站、网络应用、Android和IOS下的APP交互。开发者可以利用Google Analytics的健壮API来创建综合报告和定制化配置。
+
+<img src="images/8-1-2.png" />
+
+###### <img src="images/8-1-3.png" style="zoom:50%;" />
+
+Grafana是一款开源的分析和监测工具，支持十几种用于从源头拉取数据的本地化数据库。它极度可视化，从热力图到直方图，图表到地理图以及各种各样的仪表盘。Grafana还支持团队使用Slack之类的工具发送告警和通知。
+
+<img src="images/8-1-4.png" />
+
+###### <img src="images/8-1-5.png" style="zoom:50%;" />
+
+Azure 监测器是微软提供的用于对应用、基础设施和网络进行全局可视化监测的工具。通过Azure Monitor遥测技术实现全站监测，触发式告警和获取日志。
+
+<img src="images/8-1-6.png" />
+
+###### <img src="images/6-1-3.png" style="zoom:50%;" />
+
+AWS CloudWatch向DevOps工程师、研发人员、SRE工程师和IT经理提供监测和分析的服务。CloudWatch提供数据，研发人员采取行动：利用此工具来监测应用，反馈性能变化，优化资源，获取运营健康状况的概览。
+
+CloudWatch以日志形式收集监控和运营数据，度量指标，提供关于运行在AWS或者内部服务器上的资源、应用和服务的相关信息。
+
+<img src="images/8-1-7.png" />
+
 ##### 即时通讯
 
+###### <img src="images/9-1-1.png" style="zoom:50%;" />
+
+Slack是一款基于云实例的消息平台，可以拨打视频电话，还基于话题管理频道中的聊天历史记录。它在企业内部被当作实时的邮件使用，研发人员可以获取企业范围内的关键信息和专家的支持，也可以进行项目级的回顾和协作。实时追踪多系统的性能数据以更快速的解决问题，通过衔接其他服务和平台来流线化和自动化工作流程。
+
+Slack集成了主流的项目管理和问题追踪工具，如Jira、GloIssue Boards和Trello，快速响应新增的bug和task，而且无需文档转换。Slack还直接集成进了GitHub、GitLab以及Bitbucket。
+
+<img src="images/9-1-2.png" />
+
+###### <img src="images/9-2-1.png" style="zoom:50%;" />
+
+微软的Teams是一个结合了文字聊天、视频会议、文件存储和应用集成的通讯平台。如果企业依赖于微软工具套装，那么Teams就是理想团队协作的中心。使用Teams可以实时访问、共享、编辑Word、PowerPoint和Excels文件。
+
+<img src="images/9-2-2.png" />
+
 ### 总结
+
+引领性企业还在进行DevOps转型，以通过更安全和快速的交付他们的技术来获取竞争优势。DevOps转型会涉及众多方面，包括员工的思维定式，新技术的教学，合适工具的引进。本报告聚焦于已成功实施这些工具的2700多开拓者，总结出最好的DevOps工具。
+
+把报告分享给其他干系人以展示DevOps转型中工具的重要性。我们的报告明显证明了一点，高效的软件工程师和IT领导会选择有用且可用的工具以在DevOps转型中提升生产力和价值交付；同时也自动和集成新工具到他们的工具链中，释放更多的时间在开发上。这也驳斥了工具实施费时费力的观点。
+
+<div align='center'>
+  <img src=images/last_icon.png/>
+</div>
