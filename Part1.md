@@ -94,3 +94,4 @@ Bitbucket是Atlassian的产品，首先是一个代码管理工具。为了与�
 ###### Azure DevOps 
 
 Azure DevOps是微软的一款产品，提供Git仓库托管、报告、需求管理、项目管理、自动构建、实验室管理、测试和发布管理功能。该产品于2018年发布，取代了Visual Studio Team Services (VSTS)等工具，并结合了许多其他工具，覆盖了整个应用生命周期，实现了DevOps功能。要扩展您的DevOps工具链并进一步简化开发，请将GitKraken Git GUI与您的Azure DevOps托管的Git仓库集成。
+a
