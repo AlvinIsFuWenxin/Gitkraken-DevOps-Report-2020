@@ -4,6 +4,7 @@
 <div align='center'><font size='70'>DevOps Tools Report 2020</font></div>
 <p align="right"><b>By GitKraken</b></p>
 <p align="right"><b>Translator: 吴平福 周一行 付文新</b></p>
+
 ![0-2](images/tools_chain.png)
 
 ![0-3](images/page_front.png)
@@ -15,7 +16,7 @@
 
 #### [计划](Part1.md/##### 计划)
 
-##### [项目管理和问题跟踪 ](Part1.md/###### 项目管理和问题跟踪 )
+##### [项目管理和问题跟踪 ](Part1.md/###### 项目管理和问题跟踪)
 
 ###### [主要研究结果](Part1.md/###### 主要研究结果)
 
