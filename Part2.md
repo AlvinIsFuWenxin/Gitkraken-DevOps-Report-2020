@@ -48,7 +48,7 @@ Visual Studio提供了一些特性来帮助处理DevOps工作流的各个部分�
 #### 构建
 
 ##### 构建工具
-![](images/3-1-1.png) [Jenkins](https://jenkins.io/)-Jenkins是一个开源的自动化服务器，允许组织通过自动化来加速他们的软件开发。Jenkins在整个DevOps生命周期中管理和控制软件交付过程，包括构建、测试、运营和部署。设置Jenkins以监视GitHub、Bitbucket或GitLab上的任何代码更改，并使用Maven和Gradle等工具自动进行构建。利用容器技术，如Docker和Kubernetes，启动测试，然后在生产中采取回滚或前滚等操作。
+![](images/3-1-1.png) [Jenkins](https://jenkins.io/)-Jenkins是一个开源的自动化服务器，允许组织通过自动化来加速他们的软件开发。Jenkins在整个DevOps生命周期中管理和控制软件交付过程，包括构建、测试、运维和部署。设置Jenkins以监视GitHub、Bitbucket或GitLab上的任何代码更改，并使用Maven和Gradle等工具自动进行构建。利用容器技术，如Docker和Kubernetes，启动测试，然后在生产中采取回滚或前滚等操作。
 
 ![](images/3-1-2.png) [Maven](https://maven.apache.org/)-Maven是一个构建自动化工具，主要用于Java项目，但也可以用于构建和管理用C#、Ruby、Scala和其他语言编写的项目。Maven项目由Apache软件基金会托管。
 团队可以使用Maven的项目对象模型（project object model，POM）和一组插件，来使用统一的构建系统构建项目。一旦您的团队熟悉了一个Maven项目是如何构建的，您就会知道所有Maven项目是如何构建的，从而在尝试确定许多项目时节省了时间。
